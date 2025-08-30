@@ -1,0 +1,10 @@
+Enter the filename to read from: Input.txt
+	A	B	C	D	E
+A	0	1	0	1	0
+B	0	0	0	1	0
+C	0	0	0	0	0
+D	0	0	1	0	0
+E	1	1	0	0	0
+
+topnum:      1  2  3  4  5  
+             E  A  B  D  C  
